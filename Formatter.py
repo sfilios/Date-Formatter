@@ -37,7 +37,7 @@ for data in open(birding_data):
 		
 		
 		
-		
+"""	Pseudocode	
 is the next character a '/'?
 If so, do nothing.
 
@@ -57,5 +57,5 @@ If not look at the  , is the next character a number?
 	otherwise, first number =day
 
 print day + "/" + month + "/" + "2016"
-
+"""
 	
